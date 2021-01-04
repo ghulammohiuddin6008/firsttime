@@ -1,0 +1,19 @@
+.div1{float: left;
+width: 50%;
+height: 50%;
+padding-left: 50px;
+}
+li{
+    display: inline;
+    padding-left: 15px;
+
+}
+li:hover{
+    color: lightblue;
+    cursor: pointer;}
+.header{
+    background-color: #f8f9f9;
+}
+.one{
+    border: 50px;
+}
